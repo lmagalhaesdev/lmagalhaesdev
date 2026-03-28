@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/nemrela1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemRela1&layout=donut-vertical&theme=dracula" width="350" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nemrela1&layout=donut-vertical&theme=dark" width="350" />
   </a>
 
   <br />
