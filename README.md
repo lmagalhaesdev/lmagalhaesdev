@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/nemrela1">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nemrela1&layout=donut-vertical&theme=dark" width="350" />
+  <a href="https://github.com/lmagalhaesdev">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmagalhaesdev&layout=donut-vertical&theme=dark" width="350" />
   </a>
 
   <br />
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-  <a href="mailto:conceicaolucas68@gmail.com">
+  <a href="mailto:contato@lmagalhaes.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   &nbsp;
