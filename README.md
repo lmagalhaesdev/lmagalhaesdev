@@ -5,7 +5,7 @@
 
   <br />
 <br />
-  <a href="https://www.linkedin.com/in/lucas-magalh%C3%A3es-348936222/" target="_blank">
+  <a href="https://www.linkedin.com/in/alucascmagalhaes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
