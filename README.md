@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/lmagalhaesdev" target="_blank">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmagalhaesdev&layout=donut-vertical&theme=dark" width="350" />
+    <img src="https://gitbadge.lmagalhaes.com/api/irc?user=lmagalhaesdev&title=%20Linguagens%20que%20mais%20uso&style=bars&color=58A6FF&bg_color=0D1117&text_color=C9D1D9&limit=6&hide=C%2B%2B&show_accumulated=false&border_radius=4.5&langColors=%7B%7D&t=0" width=350 />
   </a>
 
   <br />
