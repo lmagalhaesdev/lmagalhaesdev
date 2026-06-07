@@ -5,21 +5,13 @@
 
   <br />
 <br />
-  <a href="https://www.linkedin.com/in/alucascmagalhaes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
+<a href="https://linkedin.com/in/alucascmagalhaes" target="_blank"><img src="https://gitbadge.lmagalhaes.com/api/social?type=linkedin&scale=2&label=Linkedin" alt="Linkedin"></a>
   &nbsp;
-  <a href="https://www.instagram.com/lmag10_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
+<a href="https://instagram.com/lmag10_" target="_blank"><img src="https://gitbadge.lmagalhaes.com/api/social?type=instagram&scale=2&label=Instagram" alt="Instagram"></a>
 <br />
 <br />
 
-  <a href="mailto:contato@lmagalhaes.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
+<a href="mailto:contato@lmagalhaes.com" target="_blank"><img src="https://gitbadge.lmagalhaes.com/api/social?type=mail&scale=2&label=Mail" alt="Mail"></a>
   &nbsp;
-  <a href="https://discord.com/users/nemrela10" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" />
-  </a>
+<a href="https://discord.com/users/nemrela10" target="_blank"><img src="https://gitbadge.lmagalhaes.com/api/social?type=discord&scale=2&label=Discord" alt="Discord"></a>
 </div>
